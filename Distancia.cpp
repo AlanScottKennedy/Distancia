@@ -5,7 +5,7 @@ int main ()
 {
     int d;
     double x1, y1, x2, y2;
-    cout << "CARPETA PARA CALCULAR LA DISTANCIA DE DOS PUNTOS." <<endl;
+    cout << "Programa para calcular la distancia de 2 puntos." <<endl;
     cout << "creador: Alan Alexis" << endl;
     cout << "x1:";
     cin >> x1;
